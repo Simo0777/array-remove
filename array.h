@@ -1,0 +1,1 @@
+void array_(double*arr, size*pn,size t pos);
